@@ -1,19 +1,9 @@
 {
-  "latestVersion": 103,
+  "latestVersion": 104,
   "patches": [
     {
-      "version": 101,
-      "url": "https://drive.google.com/file/d/1YM0ZEF1crkOmiDbpGgfinDSTzRPeZOw7/view?usp=drive_link",
-      "size": 12584320
-    },
-    {
-      "version": 102,
-      "url": "https://drive.google.com/file/d/1TWaITuy3omLZUl8modTdV9yik2IMnZf3/view?usp=sharing",
-      "size": 12584320
-    },
-    {
-      "version": 103,
-      "url": "https://drive.google.com/file/d/1NyAXjcRcjPlKkRU5rOsXrPFvB_42q4YB/view?usp=sharing",
+      "version": 104,
+      "url": "https://drive.google.com/file/d/1O1ZeI6R388VuVGJPWah2KmTpWxaL4jP3/view?usp=sharing",
       "size": 12584320
     }
   ]
