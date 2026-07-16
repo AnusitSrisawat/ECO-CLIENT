@@ -1,5 +1,5 @@
 {
-  "latestVersion": 111,
+  "latestVersion": 112,
   "patches": [
     {
       "version": 106,
@@ -29,6 +29,11 @@
     {
       "version": 111,
       "url": "https://drive.google.com/file/d/1QwUxOWPcBNOU1R-IjneXSOOsza9_cg0J/view?usp=drive_link",
+      "size": 12584320
+    },
+    {
+      "version": 112,
+      "url": "https://drive.google.com/file/d/1YI5r7ygM4ETPjzEuTytL4igLavxFPHBL/view?usp=drive_link",
       "size": 12584320
     }
   ]
