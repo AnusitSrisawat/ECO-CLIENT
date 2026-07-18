@@ -1,49 +1,9 @@
 {
-  "latestVersion": 114,
+  "latestVersion": 115,
   "patches": [
     {
-      "version": 106,
-      "url": "https://drive.google.com/file/d/1U6nqvCa7l5ZJScFq3gAWGDkv3kPxaKGk/view?usp=drive_link",
-      "size": 12584320
-    },
-    {
-      "version": 107,
-      "url": "https://drive.google.com/file/d/1-cBFnJBjeta2hK3S-1P_lJGf2zs0ULOY/view?usp=sharing",
-      "size": 12584320
-    },
-    {
-      "version": 108,
-      "url": "https://drive.google.com/file/d/1mHti96y-iF-xKzaXsFP0OYe3rPgYNJsG/view?usp=drive_link",
-      "size": 12584320
-    },
-    {
-      "version": 109,
-      "url": "https://drive.google.com/file/d/1RAfEfBAD3hKzg-upjm1lxN4i255ldzep/view?usp=drive_link",
-      "size": 12584320
-    },
-    {
-      "version": 110,
-      "url": "https://drive.google.com/file/d/1jjJvLaWXmRhqXvJAZ6t-oVdvOPMoE18U/view?usp=sharing",
-      "size": 12584320
-    },
-    {
-      "version": 111,
-      "url": "https://drive.google.com/file/d/1QwUxOWPcBNOU1R-IjneXSOOsza9_cg0J/view?usp=drive_link",
-      "size": 12584320
-    },
-    {
-      "version": 112,
-      "url": "https://drive.google.com/file/d/1YI5r7ygM4ETPjzEuTytL4igLavxFPHBL/view?usp=drive_link",
-      "size": 12584320
-    },
-    {
-      "version": 113,
-      "url": "https://drive.google.com/file/d/15xTxkOzJQBXfMTLFfje4iZC5SWm8SA2u/view?usp=drive_link",
-      "size": 12584320
-    },
-    {
-      "version": 114,
-      "url": "https://drive.google.com/file/d/1W3df3SI9_SXw-n-H-z_iMF6gpBDSYxBB/view?usp=sharing",
+      "version": 116,
+      "url": "",
       "size": 12584320
     }
   ]
