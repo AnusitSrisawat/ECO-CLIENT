@@ -1,5 +1,12 @@
 {
-  "latestVersion": 114,
+  "Test-latestVersion": 114,
+  "Test-IP": "168.222.29.192",
+  "Test-FullGameUrl": "http://168.222.29.192/full_client.zip",
+  
+  "Production-latestVersion": 114,
+  "Production-IP": "168.222.29.158",
+  "Production-FullGameUrl": "http://168.222.29.158/full_client.zip",
+  
   "patches": [
     {
       "version": 114,
