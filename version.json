@@ -4,8 +4,8 @@
   "Test-FullGameUrl": "http://168.222.29.192/full_client.zip",
   
   "Production-latestVersion": 114,
-  "Production-IP": "168.222.29.158",
-  "Production-FullGameUrl": "http://168.222.29.158/full_client.zip",
+  "Production-IP": "168.222.29.155",
+  "Production-FullGameUrl": "http://168.222.29.155/full_client.zip",
   
   "patches": [
     {
