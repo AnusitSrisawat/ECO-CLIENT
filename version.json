@@ -1,9 +1,9 @@
 {
-  "Test-latestVersion": 114,
+  "Test-latestVersion": 115,
   "Test-IP": "168.222.29.192",
   "Test-FullGameUrl": "http://168.222.29.192/full_client.zip",
   
-  "Production-latestVersion": 114,
+  "Production-latestVersion": 115,
   "Production-IP": "168.222.29.155",
   "Production-FullGameUrl": "http://168.222.29.155/full_client.zip",
   
@@ -11,6 +11,11 @@
     {
       "version": 114,
       "url": "https://drive.google.com/file/d/1W3df3SI9_SXw-n-H-z_iMF6gpBDSYxBB/view?usp=sharing",
+      "size": 12584320
+    },
+    {
+      "version": 115,
+      "url": "https://drive.google.com/file/d/18F2dfoNJ2Mrcw1YXrEgDzY8zkgaxbE4D/view?usp=sharing",
       "size": 12584320
     }
   ]
